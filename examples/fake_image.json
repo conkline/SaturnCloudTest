@@ -1,6 +1,6 @@
 {
   "name": "example-rapids",
-  "image_uri": "saturncloud/saturn-rapids:2023",
+  "image_uri": "saturncloud/saturn-rapids:2023.01.01",
   "description": "Use GPUs for data science and machine learning with this platform by NVIDIA",
   "environment_variables": {
     "SATURN__JUPYTER_SETUP_DASK_WORKSPACE": "true"
