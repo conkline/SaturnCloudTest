@@ -12,6 +12,16 @@
     }
   ],
   "jupyter_server": {
-    "disk_space": "300Gi",
+    "disk_space": "10Gi",
     "instance_type": "4xlarge"
+  },
+  "dask_cluster": {
+    "num_workers": 3,
+    "worker": {
+      "instance_type": "4xlarge"
+    },
+    "scheduler": {
+      "instance_type": "large"
+    }
+  }
 }
