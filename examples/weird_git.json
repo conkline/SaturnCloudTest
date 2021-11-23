@@ -5,10 +5,10 @@
   "environment_variables": {
     "SATURN__JUPYTER_SETUP_DASK_WORKSPACE": "true"
   },
-  "working_directory": "/home/jovyan/git-repos/examples/fake_directory/",
+  "working_directory": "/home/jovyan/git-repos/examples/examples/rapids",
   "git_repositories": [
     {
-      "url": "https://github.com/saturncloud/examples"
+      "url": "https://github.com/saturncloud/fake_directory"
     }
   ],
   "jupyter_server": {
