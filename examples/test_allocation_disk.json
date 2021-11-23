@@ -12,7 +12,7 @@
     }
   ],
   "jupyter_server": {
-    "disk_space": "10Gi",
+    "disk_space": "300Gi",
     "instance_type": "g4dnxlarge"
   },
   "dask_cluster": {
