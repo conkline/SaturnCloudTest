@@ -7,5 +7,5 @@
     "disk_space": "10Gi",
     "instance_type": "g4dnxlarge"
   },
-  "version": "2022-01-06"
+  "version": "2022.01.06"
 }
