@@ -24,5 +24,6 @@
       "weird_var": "some value",
       "instance_type": "large"
     }
-  }
+  },
+  "version": "2022.01.06"
 }

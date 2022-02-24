@@ -23,4 +23,5 @@
     "scheduler": {
       "instance_type": "large"
     }
-  }
+  },
+  "version": "2022.01.06"
